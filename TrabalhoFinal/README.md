@@ -1,0 +1,2 @@
+## Observação importante
+    No testbench será necessário mudar mudar o caminho das pastas em que será escrito os arquivos .hex.Na pasta verificação já possui arquivos prontos e também os scripts que eu usei para plotar os arquivos .hex.
