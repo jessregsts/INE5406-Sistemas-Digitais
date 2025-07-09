@@ -1,1 +1,1 @@
-Meu repositório da disciplina INE5406 - Sistemas Digitais.
+ My repository for my INE5406 - Digital Systems classes.
