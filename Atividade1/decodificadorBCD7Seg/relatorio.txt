@@ -1,0 +1,15 @@
+--------------- dados do aluno ---------------
+nome: Jessica Regina dos Santos e Gustavo Hideki Guenka Vale
+matricula: 22100626 e 21202112
+--------------- dados do fpga ----------------
+familia: Cyclone III
+dispositivo: EP3C5E144C7
+-------- dados de utilizacao da placa --------
+total combinational functions: 7
+dedicates logic registers: 0
+total pins: 11
+-------------- dados de atraso ---------------
+input port: bcd[0]
+output port: abcdefg[2]
+atraso (ns): 3.761
+RR, RF, FR, FF: FF
